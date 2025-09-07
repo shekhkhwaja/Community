@@ -92,6 +92,32 @@ function Hackathons() {
      
       requirements: "Open to All"
     },
+     {
+      id: 4,
+      status: 'open',
+      title: "Smart India Hackathon 2024",
+      description: "<p>Smart India Hackathon (SIH) 2024 is India’s premier nationwide initiative that brings together students, mentors, and institutions to solve real-world challenges. The Grand Finale showcases innovative ideas, cutting-edge solutions, and collaborative efforts from across the country.</p><h3>About SIH 2024</h3><p>SIH provides students a unique platform to apply their knowledge, creativity, and problem-solving skills in addressing pressing challenges. With nationwide participation and nodal centres, the event fosters innovation, collaboration, and impact-driven solutions.</p><h3>Nodal Centres</h3><p>View the live event pages of all the participating Nodal Centres across India to get a glimpse of the ongoing SIH Senior Grand Finale 2024.</p><h3>Event Details</h3><ul><li><strong>Software Finale</strong>: 11th – 12th December 2024</li><li><strong>Hardware Finale</strong>: 11th – 15th December 2024</li><li><strong>Mode</strong>: Conducted across designated Nodal Centres in India</li></ul><h3>The Supporters of SIH 2024</h3><ul><li><strong>Organising Partner</strong>: Nodal Centres</li><li><strong>Official Partner</strong>: Nodal Centres</li><li><strong>Evaluation Partner</strong>: Nodal Centres</li><li><strong>Official Media Partner</strong>: Nodal Centres</li><li><strong>Learning Partner</strong>: Nodal Centres</li><li><strong>Platform Partner</strong>: Nodal Centres</li></ul><h3>Why Join?</h3><ul><li><strong>Innovative Solutions</strong> – Engage with cost-effective, creative, and impactful ideas.</li><li><strong>National Visibility</strong> – Showcase talent and innovation across premier institutions in India.</li><li><strong>Collaboration</strong> – Work alongside industry experts, mentors, and peers.</li><li><strong>Innovation Movement</strong> – Be a part of India’s largest open innovation platform.</li></ul><h3>Contact Us</h3><ul><li><strong>Phone</strong>: (+91) 11 29581239, (+91) 11 29581240</li><li><strong>General Queries</strong>: sih@aicte-india.org, hackathon@aicte-india.org</li><li><strong>Technical Support</strong>: senior-sih@hack2skill.com</li></ul><p><em>Note: This website is best viewed in Desktop mode. Kindly enforce Desktop site on your mobile browsers.</em></p><p>© 2024-25 Smart India Hackathon. All Rights Reserved.</p>",
+     
+      startDate: "25-08-2024",
+      endDate: "01-12-2024",
+      venue: "Multiple Nodal Centers across India (TBA)",
+      prize: "Rs. 2.25lakh ",
+      level: "Intermediate",
+      category: "open",
+      registrationStatus: "open",
+      registrationDeadline: "30-09-2025",
+      teamSize: "1-6 members",
+      registrationLink: "https://forms.gle/vb5fuBiA5deTAwsX7",
+     
+"timeline":[
+  { "time":"25 Aug 2024","event":"SPOC & Team Registration begins" },
+  { "time":"30 Sep 2024","event":"SPOC & Team Registration ends" },
+  { "time":"11-15 Dec 2024","event":"Hackathon finals (grand finale)" }
+],
+
+      requirements: "Open to All"
+    },
+    
 
   ]);
 
